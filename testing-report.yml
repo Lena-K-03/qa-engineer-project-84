@@ -34,3 +34,21 @@
 - summary: |
     Проверка удаления товара из корзины 
   status: pass
+
+- summary: |
+    Проверка отображения иконок английского и русского языка
+  status: fail
+
+- summary: |
+    Проверка сброса фильтра категории товаров
+  status: fail
+
+- summary: |
+    Проверка нажатия кнопки Next
+  status: pass
+
+- summary: |
+    Проверка нажатия кнопки Previous
+  status: pass
+  
+  
