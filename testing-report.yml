@@ -50,5 +50,27 @@
 - summary: |
     Проверка нажатия кнопки Previous
   status: pass
+
+- summary: |
+    Проверка кнопки крестика или кнопки Сlose при закрытии оформления заказа
+  status: fail
+
+- summary: |
+   Проверка фильтра сортировки товаров по цене
+ status: pass
+
+- summary: |
+   Проверка кнопки Store
+ status: pass
+
+- summary: |
+    Проверка версии сайта на русском языке 
+  status: pass
+
+- summary: |
+    Проверка наличия мобильной версии сайта 
+  status: fail
+ 
+ 
   
   
