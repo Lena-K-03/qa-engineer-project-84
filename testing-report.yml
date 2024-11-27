@@ -53,11 +53,11 @@
 
 - summary: |
     Проверка кнопки крестика или кнопки Сlose при закрытии оформления заказа
-  status: fail
+   status: fail
   
 - summary: |
     Проверка фильтра сортировки товаров по цене
-   status: pass
+  status: pass
  
 - summary: |
     Проверка кнопки Store
