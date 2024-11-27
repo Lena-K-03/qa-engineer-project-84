@@ -24,7 +24,7 @@
   status: pass
 
 - summary: |
-     Проверка оформления заказа 
+    Проверка оформления заказа 
   status: pass
 
 - summary: |
@@ -56,11 +56,11 @@
   status: fail
   
 - summary: |
-   Проверка фильтра сортировки товаров по цене
+    Проверка фильтра сортировки товаров по цене
  status: pass
  
 - summary: |
-   Проверка кнопки Store
+    Проверка кнопки Store
  status: pass
 
 - summary: |
