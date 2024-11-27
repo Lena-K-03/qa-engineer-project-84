@@ -53,7 +53,7 @@
 
 - summary: |
     Проверка кнопки крестика или кнопки Сlose при закрытии оформления заказа
-   status: fail
+  status: fail
   
 - summary: |
     Проверка фильтра сортировки товаров по цене
@@ -61,11 +61,11 @@
  
 - summary: |
     Проверка кнопки Store
-   status: pass
+  status: pass
 
 - summary: |
     Проверка версии сайта на русском языке 
-   status: pass
+  status: pass
 
 - summary: |
     Проверка адаптивности мобильной версии сайта 
