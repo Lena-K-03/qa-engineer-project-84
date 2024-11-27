@@ -57,15 +57,15 @@
   
 - summary: |
     Проверка фильтра сортировки товаров по цене
- status: pass
+   status: pass
  
 - summary: |
     Проверка кнопки Store
- status: pass
+   status: pass
 
 - summary: |
     Проверка версии сайта на русском языке 
-  status: pass
+   status: pass
 
 - summary: |
     Проверка адаптивности мобильной версии сайта 
