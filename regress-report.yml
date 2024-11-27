@@ -20,51 +20,51 @@ test-cases:
       Проверка открытия подробной информации (карточки) товара  
     status: pass
 
-- summary: |
-     Проверка оформления заказа 
+  - summary: |
+      Проверка оформления заказа 
     status: pass
     
-- summary: |
+  - summary: |
       Проверка просмотра содержимого корзины
     status: pass
 
-- summary: |
+  - summary: |
       Проверка удаления товара из корзины  
     status: pass
 
-- summary: |
+  - summary: |
      Проверка отображения иконок английского и русского языка 
     status: pass
 
-- summary: |
+  - summary: |
      Проверка сброса фильтра категории товаров
     status: pass
 
-- summary: |
+  - summary: |
      Проверка нажатия кнопки Next
     status: pass
 
-- summary: |
+  - summary: |
      Проверка нажатия кнопки Previous
     status: pass
 
-- summary: |
+  - summary: |
      Проверка кнопки крестика или кнопки Сlose при закрытии оформления заказа
     status: fail
 
-- summary: |
+  - summary: |
      Проверка фильтра сортировки товаров по цене
     status: pass
 
-- summary: |
+  - summary: |
       Проверка кнопки Store
     status: pass
 
-- summary: |
+  - summary: |
      Проверка версии сайта на русском языке 
     status: pass
 
-- summary: |
+  - summary: |
      Проверка адаптивности мобильной версии сайта 
     status: pass
 
