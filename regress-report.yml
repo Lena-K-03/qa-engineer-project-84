@@ -9,11 +9,11 @@ test-cases:
     status: pass
     
   - summary: |
-      Проверка сортировки товаров по чекбоксу brand
+      Проверка фильтрации товаров по чекбоксу brand
     status: fail
    
   - summary: |
-      Проверка сортировки товаров по чекбоксу in stock
+      Проверка фильтрации товаров по чекбоксу in stock
     status: pass 
 
   - summary: |
@@ -53,7 +53,7 @@ test-cases:
     status: fail
 
   - summary: |
-     Проверка фильтра сортировки товаров по цене
+     Проверка фильтрации товаров по цене
     status: pass
 
   - summary: |
