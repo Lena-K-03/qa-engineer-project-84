@@ -28,10 +28,6 @@
   status: pass
 
 - summary: |
-    Проверка просмотра содержимого корзины 
-  status: pass
-
-- summary: |
     Проверка удаления товара из корзины 
   status: pass
 
