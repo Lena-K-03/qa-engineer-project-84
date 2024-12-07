@@ -69,7 +69,6 @@ test-cases:
     status: pass
 
 bugreports:
-  
   - summary: |
      В мобильной версии сайта отсутствует сортировка товаров
     environment: |
