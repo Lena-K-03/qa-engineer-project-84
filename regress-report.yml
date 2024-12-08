@@ -97,8 +97,12 @@ test-cases:
     status: fail
 
   - summary: |
-    Проверка сетевого запроса оформления заказа в Devtools
+     Проверка сетевого запроса оформления заказа в Devtools
     status: fail
+
+  - summary: |
+     Проверка перехода по ссылке с хэштегом в категорию 
+    status: pass
     
 bugreports:
   - summary: |
