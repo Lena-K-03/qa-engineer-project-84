@@ -87,6 +87,10 @@ test-cases:
   - summary: |
      Проверка добавления нескольких товаров в корзину
     status: pass
+
+  - summary: |
+     Проверка сайта на кроссбраузерность
+    status: pass
     
 bugreports:
   - summary: |
