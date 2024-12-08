@@ -91,6 +91,10 @@ test-cases:
   - summary: |
      Проверка сайта на кроссбраузерность
     status: pass
+
+  - summary: |
+     Проверка отображения информации о товарах в каталоге   
+    status: fail
     
 bugreports:
   - summary: |
