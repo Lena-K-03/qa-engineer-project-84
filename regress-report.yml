@@ -95,6 +95,10 @@ test-cases:
   - summary: |
      Проверка отображения информации о товарах в каталоге   
     status: fail
+
+  - summary: |
+    Проверка сетевого запроса оформления заказа в Devtools
+    status: fail
     
 bugreports:
   - summary: |
