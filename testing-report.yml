@@ -77,11 +77,11 @@
 
 - summary: |
      Проверка перехода на страницу оплаты
-    status: fail
+ status: fail
 
 - summary: |
    Проверка фильтров при переходе между страницами
-    status: fail
+  status: fail
  
  
   
