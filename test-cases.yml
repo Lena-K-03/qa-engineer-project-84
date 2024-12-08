@@ -294,9 +294,11 @@
   test-data: |
     no data
   steps:
-    - Нажать на Next
+    - Нажать на кнопку Next
+    - Нажать на кнопку Previous
   expected-result: |
    При переходе между страницами фильтры не меняются
+   
     
 
     
