@@ -71,10 +71,10 @@
        
 - summary: |
     Отсутствует переход на страницу оплаты
- environment: |
+  environment: |
       Google Chrome 131.0.6778.86 (Официальная сборка), (64 бит)
       ОС Windows 11 версия 23H2
- steps-to-reproduce: |
+  steps-to-reproduce: |
      - Выбрать любой товар
      - Нажать на корзину товаров
      - Нажать на Checkout
@@ -85,15 +85,15 @@
 
 - summary: |
     При переходе между страницами фильтры меняются
- environment: |
+  environment: |
       Google Chrome 131.0.6778.86 (Официальная сборка), (64 бит)
       ОС Windows 11 версия 23H2
- steps-to-reproduce: |
+  steps-to-reproduce: |
      - Нажать на кнопку Next
      - Нажать на кнопку Previous
- expected-result: |
+  expected-result: |
       При переходе между страницами фильтры не меняются
- actual-result: |
+  actual-result: |
       При переходе между страницами фильтры меняются
      Ошибка представлена на Фильтры при нажатии Next.jpg и Фильтры при нажатии Previous.jpg
 
