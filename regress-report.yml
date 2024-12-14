@@ -50,7 +50,7 @@ test-cases:
 
   - summary: |
      Проверка фильтрации товаров по цене
-    status: pass
+    status: fail
 
   - summary: |
       Проверка кнопки Store
