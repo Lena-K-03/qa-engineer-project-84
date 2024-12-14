@@ -53,7 +53,7 @@
   
 - summary: |
     Проверка фильтрации товаров по цене
-  status: pass
+  status: fail
  
 - summary: |
     Проверка кнопки Store
@@ -85,7 +85,7 @@
 
 - summary: |
     Проверка добавления нескольких товаров в корзину
-  status: pass
+  status: fail
 
 - summary: |
     Проверка сайта на кроссбраузерность
