@@ -29,14 +29,6 @@ test-cases:
     status: pass
 
   - summary: |
-     Проверка отображения иконки английского языка 
-    status: pass
-
-  - summary: |
-     Проверка отображения иконки русского языка 
-    status: pass
-
-  - summary: |
      Проверка сброса фильтра категории товаров
     status: pass
 
@@ -66,6 +58,10 @@ test-cases:
 
   - summary: |
      Проверка версии сайта на русском языке 
+    status: pass
+
+  - summary: |
+     Проверка версии сайта на английском языке 
     status: pass
 
   - summary: |
